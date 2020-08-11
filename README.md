@@ -1,2 +1,3 @@
-# instagram_layout
-Instagram Layout utilizando Grid
+### Instagram_Layout
+
+- Ejercicio de practica utilizando HTML y CSS.
